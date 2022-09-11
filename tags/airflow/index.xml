@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Airflow on Sattar Feizollahibarough</title>
+    <link>https://sattarfgh.github.io/tags/airflow/</link>
+    <description>Recent content in Airflow on Sattar Feizollahibarough</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sattarfgh.github.io/tags/airflow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apache Airflow Best Practices</title>
+      <link>https://sattarfgh.github.io/post/apache-airflow-best-practices/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sattarfgh.github.io/post/apache-airflow-best-practices/</guid>
+      <description>
+        
+          
+            Once you’ve decided to use Apache Airflow in your production, it would be a great idea to take some time and plan for it. The first question that comes to mind is how it should be deployed in production. To answer this question you need to familiarize yourself with the airflow architecture. Airflow has 6 main components:
+ Database: It primarily keeps all the states. Scheduler: This is responsible for parsing DAGs and scheduling them based on their schedule interval.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
